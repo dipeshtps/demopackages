@@ -1,0 +1,1 @@
+{{ dd($data,\Carbon\Carbon::now($timezone)->toDateTimeString()) }}
