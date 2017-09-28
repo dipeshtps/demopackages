@@ -1,0 +1,3 @@
+"require": {
+    "dipesh/crud"
+}
